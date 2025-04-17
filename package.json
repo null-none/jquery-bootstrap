@@ -1,0 +1,20 @@
+{
+	"name": "jquery-bootstrap",
+	"title": "jQuery UI with Bootstrap styles",
+	"description": "jQuery UI integrated with Bootstrap theme.",
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/null-none/jquery-bootstrap.git"
+	},
+	"bugs": {
+		"url": "https://github.com/null-none/jquery-bootstrap/issues"
+	},
+	"license": "MIT",
+	"keywords": [
+		"jquery",
+		"jquery-ui",
+		"jquery-ui-bootstrap",
+		"bootstrap"
+	]
+}
